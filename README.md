@@ -5,6 +5,7 @@ This software doesn't contain any code and nothing works, it's just a mockup.
 Application language : english/french    
 This application was make by nt games on the 25/10/2018.    
 The first application of nt games.    
+MamiesMod discord server : https://discord.com/invite/xe2tj6J    
 
 # How do I compile ? 
 You can compile this with [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or with other development software in Visual Basic.
