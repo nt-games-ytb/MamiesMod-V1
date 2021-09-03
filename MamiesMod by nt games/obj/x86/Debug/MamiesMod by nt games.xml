@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MamiesMod by nt games
+</name>
+</assembly>
+<members>
+<member name="T:MamiesMod_by_nt_games.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_10">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_3">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_31">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_4">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_41">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_5">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_6">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_61">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_7">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_8">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_81">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran_9">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MamiesMod_by_nt_games.My.Resources.Resources.fond_d_ecran1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
